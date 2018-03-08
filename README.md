@@ -41,6 +41,7 @@ The following default commands change the style of the dot:
 <img src="AnyBar/Resources/black@2x.png?raw=true" width=19 /> `black`  
 <img src="AnyBar/Resources/question@2x.png?raw=true" width=19 /> `question`  
 <img src="AnyBar/Resources/exclamation@2x.png?raw=true" width=19 /> `exclamation`  
+<img src="AnyBar/Resources/party.png?raw=true" width=19 /> `party`  
 
 And one special command forces AnyBar to quit: `quit`
 
